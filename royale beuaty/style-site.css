@@ -249,49 +249,6 @@ footer {
       }
 
 
-       /* dicas de beleza */       
-    
-    .conteiner-videos {
-      display: grid;
-      background-color: var(--cor1);
-      grid-template-columns: 1fr;
-      width: 905px;
-      height: 1600px;
-      justify-content: center; 
-
-    }
-      
-    .item-video-1 {
-      display: grid;        
-      margin-top: 10px;
-      width: 905px;
-      height: 315px; 
-      justify-content: center;
-     }
-  
-     .item-video-2 {
-      display: grid;        
-      margin-top: 10px;
-      width: 905px;
-      height: 315px; 
-      justify-content: center;
-     }
-  
-     .item-video-3 {
-      display: grid;        
-      margin-top: 10px;
-      width: 905px;
-      height: 315px; 
-      justify-content: center;
-     }
-  
-     .item-video-4 {
-      display: grid;        
-      margin-top: 10px;
-      width: 905px;
-      height: 315px; 
-      justify-content: center;
-     }
   
 /* localização */
 
