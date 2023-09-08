@@ -32,7 +32,7 @@ body {
 main {
     min-width: 280px;
     max-width: 900px;
-    background-color: var(--cor3);
+    background-color: white;
     margin: auto;
     padding: 30px;
     margin-top: 20px;
