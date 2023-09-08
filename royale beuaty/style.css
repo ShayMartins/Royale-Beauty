@@ -123,6 +123,7 @@ i#burguer > :hover {
 
 footer {
     background-color: var(--cor3);
+    background-size: 50px;
     margin: 0px;
     padding: 10px;
     text-align: center;
