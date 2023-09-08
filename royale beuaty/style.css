@@ -122,8 +122,7 @@ i#burguer > :hover {
 }
 
 footer {
-    background-color: var(--cor3);
-    background-size: 50px;
+    background-color: var(--cor3);    
     margin: 0px;
     padding: 10px;
     text-align: center;
@@ -137,8 +136,7 @@ article > p {
 }
 
 .auto-grid {
-    --auto-grid-min-size: 16rem;
-    
+    --auto-grid-min-size: 16rem;    
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
     gap: 10px;
